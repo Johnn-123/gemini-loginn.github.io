@@ -4,7 +4,7 @@
 
 <body>
 <img src="https://i.ibb.co/j6kGzn0/Gemini-1.png">
-<h1 align="center"> Gemini Login : Gemini Administration </h1 align="center">
+<h1 > Gemini Login : Gemini Administration </h1>
 <p>
 <a href="https://cobenstusliner.com/crbyNkZ94w395bf4TGY5W3mQ"> gemini login </a>
 
